@@ -83,3 +83,8 @@ src/
   main.py
 demo/
   動画
+
+🔷 Tech Stack
+- Python
+- OpenCV
+- NumPy
