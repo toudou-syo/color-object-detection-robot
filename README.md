@@ -68,9 +68,11 @@ PCAを用いた物体姿勢推定
 
 🔷 デモ動画
 
-https://youtu.be/XHCQg8P0yd4(PC画面)
+https://youtu.be/XHCQg8P0yd4
+(PC画面)
 
-https://youtu.be/hbV2CIgUGOc(動作の様子)
+https://youtu.be/hbV2CIgUGOc
+(動作の様子)
 
 
 🔷 実行方法
