@@ -77,3 +77,9 @@ https://youtu.be/hbV2CIgUGOc
 
 🔷 実行方法
 python main.py
+
+🔷 Project Structure
+src/
+  main.py
+demo/
+  動画
