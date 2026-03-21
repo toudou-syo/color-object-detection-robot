@@ -10,6 +10,11 @@ Color-Based Object Detection and Robotic Manipulation System
 俯瞰視点にカメラを移動させた後、画像処理により対象物（ペン）の位置と傾きを算出し、把持姿勢を補正して掴み動作を実現する。
 <img width="640" height="480" alt="Pick Camera_screenshot_13 01 2026" src="https://github.com/user-attachments/assets/93bdd448-5bdb-4a09-b469-bcfc6307b554" />
 
+🔷 Features
+- Color-based object detection (HSV)
+- Object position estimation (centroid)
+- Orientation estimation using PCA
+- Robotic manipulation (hardware-dependent)
 
 🔷 システム構成
 
