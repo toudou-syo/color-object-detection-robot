@@ -5,8 +5,11 @@ Color-Based Object Detection and Robotic Manipulation System
 🔷 概要
 
 本プロジェクトでは、PythonとOpenCVを用いて、カメラ映像から対象物の色・位置・姿勢を推定し、ロボットアームによる把持・搬送を行うシステムを開発した。
+<img width="640" height="480" alt="Pick Camera_screenshot_16 01 2026" src="https://github.com/user-attachments/assets/22c2b92f-ad31-4c51-b62e-4a0362dade6d" />
 
 俯瞰視点にカメラを移動させた後、画像処理により対象物（ペン）の位置と傾きを算出し、把持姿勢を補正して掴み動作を実現する。
+<img width="640" height="480" alt="Pick Camera_screenshot_13 01 2026" src="https://github.com/user-attachments/assets/93bdd448-5bdb-4a09-b469-bcfc6307b554" />
+
 
 🔷 システム構成
 
@@ -42,9 +45,13 @@ HSV空間で色検出
 
 OpenCVによるリアルタイム画像処理
 
+<img width="320" height="240" alt="nav_screenshot_16 01 2026" src="https://github.com/user-attachments/assets/871987ff-c1a3-4119-b0a7-634cf2b7312c" />
+
 PCAを用いた物体姿勢推定
 
 センサ情報に基づく制御アルゴリズム
+
+<img width="300" height="400" alt="Map_screenshot_21 01 2026" src="https://github.com/user-attachments/assets/e107d677-67c0-44ad-ab80-f4b2e92634fc" />
 
 認識から制御までの統合システム構築
 
@@ -57,6 +64,7 @@ PCAを用いた物体姿勢推定
 🔷 課題
 
 カメラの振動による認識精度低下
+![IMG_2026-01-16-18-44-33-686](https://github.com/user-attachments/assets/cfb11381-6566-4f2d-b4f8-2848e7163ca1)
 
 センサ誤差による把持ズレ
 
@@ -88,3 +96,5 @@ demo/
 - Python
 - OpenCV
 - NumPy
+
+
