@@ -107,7 +107,11 @@ demo/
 ※一部モジュールはローカル環境用のため省略しています
 
 🔷 Note
-This project includes hardware-dependent modules (Dobot, CyberPi).
+This project includes hardware-dependent modules (Dobot, CyberPi, custom modules).
+
+Due to environment differences, some parts of the code may not run without the actual hardware setup.
+
+However, the core logic for image processing (color detection, position estimation, PCA-based orientation estimation) is fully implemented in Python using OpenCV.
 
 
 
