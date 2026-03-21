@@ -106,5 +106,8 @@ demo/
 
 ※一部モジュールはローカル環境用のため省略しています
 
+🔷 Note
+This project includes hardware-dependent modules (Dobot, CyberPi).
+
 
 
