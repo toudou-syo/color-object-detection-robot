@@ -100,7 +100,10 @@ demo/
 🔷 Environment
 - Dobot Magician
 - CyberPi (mbot2)
-- Raspberry Pi
+- Raspberry Pi 4B
+- micro SD card 16GB
+- web camera
+- cariblation sheet
 
 ※DobotおよびCyberPi関連ライブラリは公式SDKが必要です
 
