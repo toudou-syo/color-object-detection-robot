@@ -97,4 +97,12 @@ demo/
 - OpenCV
 - NumPy
 
+🔷 Environment
+- Dobot Magician
+- CyberPi (mbot2)
+- Raspberry Pi
+
+※DobotおよびCyberPi関連ライブラリは公式SDKが必要です
+
+
 
