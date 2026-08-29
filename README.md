@@ -5,9 +5,11 @@ Color-Based Object Detection and Robotic Manipulation System
 🔷 概要
 
 本プロジェクトでは、PythonとOpenCVを用いて、カメラ映像から対象物の色・位置・姿勢を推定し、ロボットアームによる把持・搬送を行うシステムを開発した。
+
 <img width="640" height="480" alt="Pick Camera_screenshot_16 01 2026" src="https://github.com/user-attachments/assets/22c2b92f-ad31-4c51-b62e-4a0362dade6d" />
 
 俯瞰視点にカメラを移動させた後、画像処理により対象物（ペン）の位置と傾きを算出し、把持姿勢を補正して掴み動作を実現する。
+
 <img width="640" height="480" alt="Pick Camera_screenshot_13 01 2026" src="https://github.com/user-attachments/assets/93bdd448-5bdb-4a09-b469-bcfc6307b554" />
 
 🔷 Features
